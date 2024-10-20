@@ -7,7 +7,8 @@ const Home = () => {
             <S.TopCont>
                 <S.HomeCont>
                     <C.Header />
-                    <C.Main />
+                    <C.AboutMe />
+                    <C.Project />
                     <C.Footer />
                 </S.HomeCont>
             </S.TopCont>
